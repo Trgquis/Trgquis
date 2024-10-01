@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Qui Truong</h1>
 <h3 align="center">I'm an indie full-stack developer. All coding projects are built from the ground up, from planning and designing all the ways to solve life's problem with code. I'm also a passionate content creator. I'm in process of creating my Youtube channel where I can identify myself to my audience.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trgquis" alt="trgquis" /></a> </p>
+
 
 - 📫 Contact By Email **tr.quiwork@gmail.com**
 
